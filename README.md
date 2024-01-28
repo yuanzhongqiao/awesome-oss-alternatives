@@ -1,18 +1,27 @@
-# Awesome open-source alternatives to SaaS
+# SaaS 的绝佳开源替代方案
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+成熟 SaaS 产品的开源初创公司替代方案的精彩列表。由人们维护于润纳资本
+
+另请查看我们的ROSS 指数：每个季度增长最快的开源初创公司。
 
 Awesome list of open-source startup alternatives to established SaaS products. Maintained by folks at [![Runa Capital](https://img.shields.io/static/v1?label=&message=%20&style=social&logoWidth=50&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD8AAAAUCAYAAAA6NOUqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAUpSURBVHgBtVhNUuNGFH7d/gkzmSrEKjGzGPkEmKpAUtkgdkBSBTkB4gSYE9icAHMCzAniqWI8kxXKJsXAVGFOgLLBZDWeRSapBNTpT/2EZCEbmcl8VV2S+v97f/1agnLi0qlZU1PldZLCIaUcIZSlSFhoU4p6+rsX3MrO81/evqTHY0kXVxebvwe6dHQ5pM8A8VCH/krNJllq6I4bEdmxUOTr0qy8OZ10w+tkiPq67JAhvklGGI4uv9L/jLHkr9cWtvWjmYt0Gkp5Sty4s93z3ycYda5LT5etRN2lLh7XRfsY8BPf07ok15jTpcZ9eok2i9usqL6YsYHQxJ88LR5o0hv3GoXwVAAzDy7CT0nTKpB6MeWm+jlClTw913zV6w0oH9L9bN7sgAlBOG2KhQPluLpU+b3JfT0y1kLcZvPYCJiznkn+iyflY2UWYx5qoJRoUVkeVjonftaY/sp3u0IGe3pcLDBB9tSzYo03kxfY2Hq0QSbTIqPB3phxdR4zw9+RG70g40pVioX7sy6OTM9wvbqwJ0RMXCnV+uvPL6uV7unuKOJA5c2Jf0Nq91790TuPJgPWdsloGGQcik13nAWl187qC+to8LzWEPn+ymJDCQEJhtomKZdnX5/tVD0vl9kWSTWGa0SbJoeny09ktI1NfqBPB6zgPRnzhyDBJyZvonroM4AfqFKtcnTi5ZkZMQIWo0gOxQhFhSY9Hvv8TAo0KybkARQKF8Ap0ibjBlbs86J8zG++oqIz2/0tNDUT/EqbOMsrr8+Gjpurte9fiOAfV0hRT58IilQ9muOR8HnTsACQhln3uA5tNYqj+kPwyLhSg8c4GBceddrcN7XW23iXkmpfHZ1emHptDRCKSEhYhQtTMslJAu4S6HN+tnu2T5MDSY6g4QBpUxy8IMxNroMiYMoz3N9mUm0eh71t8LgoZ0DdRTTOkF9dvDQEg2al+253JPGHgGNQFdykxjGPEuU9Ev/WJzzzPztkqHVD0I+Im5ZSIzdxTRrBsfLq7XLa1GWxPC2lToep5IdrjQc0A9M80GWPzDGVF0hglnL2hSWdS71xN/wUd8EuhJSiFUb8bOi+aqtAav7vj09nQHpUcIQLqVtzgiipWoghNBogjHYEpknTY4fiAIjn+pi+UJAlrn9YeK8TmIE+x6vpHn/8uDinkKaqlG+Hfq/cdAAch/7qt9qFlJN0rRSwBlLZmVQ9NOpyO/wXFydoeIPrPDKCsslYCnwa2ZxPJuPDHhvcjoC5z+/HOOraARnNpAGtCZ2m8kQx4A7a1PtrCwdXa/O5TFNnfyY7M/NlYY6yM7gPTA6lxXUd7gshYu+I4NElKEpv0Q5BREFun9vvXEN+/eps53l39DU0jPyBXBaZGxMu8vf+yjeNcUIIg16QcU+4T3KUS4AYzNjm7yjy+2T2BcF5if6oH1B8DGJv2zx/NAdl5vZpIHXVj/n+2mJDx4H6kBuEViCbgmTzanWxIxR1pM4JbgvFQeH2xgpEsGHyAEMMl6IRy/gUm24yaCIP32KSbsY4K9U/jW1+Yo6DZEMu8hGQ3+sLzCFJpLGpWxzBorUf6hLgnW4oKKBW6hBxB59EqTViemipSUaDbYp9fMAE0sEX1gATrvGYZKSPkiGPxzkUJzidaD1Bj4QWgk2FYAmmjz87Dw7IyAFGwOJN+hTHGpvfo+stNHjI7z4N3++jd4eMEAY8PqqPnvajySdx6ThW+dlHRwba94SweTEd3JHtCV8UxMu894SciMh79An4D/op5DM7HoOhAAAAAElFTkSuQmCC)](https://runacap.com) 
 
 Also checkout our [ROSS index](https://runacap.com/ross-index/): fastest-growing open-source startups, every quarter.
 
-## Criteria
-Open-source company is added to the list if: 
-1. Its product is strongly based on an open-source repo 
-2. It has a well-known closed-source competitor, solving a similar business problem
-3. It is a private for-profit company, founded in the last 10 years
-4. Its repo has 100+ stars on GitHub
 
-Things change really fast in the startup world, so this list can neither be fully complete, nor 100% up to date.
+标准
+如果符合以下条件，开源公司将被添加到列表中：
+
+其产品强烈基于开源存储库
+它有一个著名的闭源竞争对手，解决了类似的业务问题
+这是一家私营营利性公司，成立于过去 10 年
+它的仓库在 GitHub 上有 100 多个星星
+创业世界里的事情变化得非常快，所以这个列表既不能完全完整，也不能 100% 最新。
+
+请毫不犹豫地贡献并添加新的初创公司。让我们一起构建最全面的列表。
+
+有任何问题或建议吗？请随时向 DM 项目维护者@garrrikkotua发送邮件
 
 Don't hesitate to [contribute](.github/CONTRIBUTING.md) and add new startups. Let's build the most comprehensive list together.
 
