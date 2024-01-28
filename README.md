@@ -10,7 +10,7 @@ Awesome list of open-source startup alternatives to established SaaS products. M
 Also checkout our [ROSS index](https://runacap.com/ross-index/): fastest-growing open-source startups, every quarter.
 
 
-标准
+# 标准
 如果符合以下条件，开源公司将被添加到列表中：
 
 其产品强烈基于开源存储库
